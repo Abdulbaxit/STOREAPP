@@ -20,4 +20,4 @@ Before running this project, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/ProductManagementApp.git
+   git clone githttps://github.com/Abdulbaxit/STOREAPP/tree/master
